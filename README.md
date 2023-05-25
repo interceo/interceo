@@ -1,4 +1,4 @@
-# internet_director
+# Hi there, I'm Jo Biden
 
 # Git stats
 [![internet-director's github stats](https://github-readme-stats.vercel.app/api?username=internet-director&show_icons=true&theme=merko)]
